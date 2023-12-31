@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+
+@layer{
+   .main{
+    @apply  font-sans;
+    height: 550px;
+}
+}
