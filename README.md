@@ -2,6 +2,8 @@
 This project is a recreation of the Facebook login page utilizing HTML, CSS, and Tailwind CSS, serving as a practical exercise for design and coding proficiency enhancement.
 
 # Overview
+![Log-in-to-Facebook](https://github.com/Onkar-Dhotarkar/FB_Login_Page-Clone/assets/142321110/311a8ed0-e487-4149-a847-baf09f3a96db)
+
 The Facebook login page clone project was built to refine HTML/CSS skills and experiment with Tailwind CSS for styling augmentation. It aims to replicate the visual elements and layout of the original Facebook login page.
 
 # Features
