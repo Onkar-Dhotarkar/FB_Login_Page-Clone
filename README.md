@@ -8,10 +8,10 @@ This project is a recreation of the Facebook login page utilizing HTML, CSS, and
 The Facebook login page clone project was built to refine HTML/CSS skills and experiment with Tailwind CSS for styling augmentation. It aims to replicate the visual elements and layout of the original Facebook login page.
 
 # Features
-HTML/CSS Implementation: Created using HTML and CSS to mimic the appearance of the Facebook login page.
-Tailwind CSS Integration: Utilized Tailwind CSS for efficient styling, classes, and responsive design components.
-Design Practice: Intended as a design and coding exercise to reinforce frontend development skills.
-Non-functional Clone: This clone does not possess functional login capabilities but focuses solely on replicating the visual interface.
+HTML/CSS Implementation: Created using HTML and CSS to mimic the appearance of the Facebook login page.<br>
+Tailwind CSS Integration: Utilized Tailwind CSS for efficient styling, classes, and responsive design components.<br>
+Design Practice: Intended as a design and coding exercise to reinforce frontend development skills.<br>
+Non-functional Clone: This clone does not possess functional login capabilities but focuses solely on replicating the visual interface.<br>
 
 # Usage
 This project can be utilized as a reference for practicing HTML, CSS, and understanding the application of Tailwind CSS for improved styling. It's an opportunity to explore frontend development techniques in recreating a widely recognized login interface.
